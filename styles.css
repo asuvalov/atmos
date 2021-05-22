@@ -1,0 +1,11 @@
+#stream {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 640px;
+  height: 480px;
+}
+h1, p {
+  text-align: center;
+  color: black;
+}
