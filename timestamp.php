@@ -1,4 +1,4 @@
 <?php
-    date_default_timezone_set('YOUR TIMEZONE');
+    date_default_timezone_set('Europe/Minsk');
     echo $timestamp = date('H:i:s');
 ?>
